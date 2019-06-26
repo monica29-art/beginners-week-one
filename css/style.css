@@ -1,7 +1,13 @@
 p{
-color: purple;
+color: white;
 font-family: sans-serif;
 }
 body{
-  background-color: yellow;
+  background-color: purple;
+}
+li#first{
+  background-color: red;
+}
+li.luck{
+  background-color: blue
 }
